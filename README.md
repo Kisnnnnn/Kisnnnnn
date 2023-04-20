@@ -7,6 +7,7 @@
 - 😸 Vue/React/TypeScirpt/Hybird APP/Low-Code
 - 🌱 需要改善的技能：React/TypeScirpt/Electron/indexDB/Three.js...
 - 🤔 I’m looking for a Front-End Engineer job in a foreign company with SuZhou
+  - 希望能找到一份苏州的外企工作
 - 📫 How to reach me: 312339704@qq.com
 
 ### Thoughts
