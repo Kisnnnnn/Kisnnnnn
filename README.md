@@ -1,6 +1,6 @@
 ### Hi,I'm KaiXin Yuan 请看这里👋
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kisnnnnn&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=fafafa&hide_title=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kisnnnnn&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=fcfcfc&hide_title=true" />
 
 ### About me
 - 🪧 Working on ly.com
